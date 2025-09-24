@@ -22,10 +22,10 @@ public class BlockTest {
     public static final DeferredRegister<Block> BLOCKS =
             DeferredRegister.create(ForgeRegistries.BLOCKS, Bageksequineyaddon.Mod_ID);
 
-    public static final RegistryObject<SlowFeederBlock> SLOW_FEEDER_BAGEK_1 = registerBlock("slow_feeder_bagek_1",
-            () -> new SlowFeederBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
-                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), null),
-            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+  //  public static final RegistryObject<SlowFeederBlock> SLOW_FEEDER_BAGEK_1 = registerBlock("slow_feeder_bagek_1",
+  //          () -> new SlowFeederBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+   //                 .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), null),
+   //         BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
 
 
 

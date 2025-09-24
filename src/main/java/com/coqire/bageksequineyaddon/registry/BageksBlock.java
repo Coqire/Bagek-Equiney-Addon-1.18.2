@@ -52,7 +52,7 @@ public class BageksBlock {
         return item(block, BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
     }
 
-    private static Supplier<BlockItem> item(RegistryObject<? extends Block> block, CreativeModeTab TREAWARD_TAB) {
+    private static Supplier<BlockItem> item(RegistryObject<? extends Block> block, CreativeModeTab BAGEKSBLOCK_TAB) {
         return () -> {
             return new BlockItem((Block) block.get(), (new Item.Properties()).tab(BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB));
         };
