@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AB ",
+    "   ",
+    "   "
+  ],
+  "key": {
+    "A": {
+      "item": "swem:pestle_mortar"
+    },
+    "B": {
+      "item": "minecraft:orange_dye"
+    }
+  },
+  "result": {
+    "item": "bageksequineyaddon:bagek_dye_4"
+  }
+}
