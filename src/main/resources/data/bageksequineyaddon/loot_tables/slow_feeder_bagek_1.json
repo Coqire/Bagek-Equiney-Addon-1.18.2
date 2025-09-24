@@ -3,10 +3,11 @@
   "pools": [
     {
       "rolls": 1,
+      "bonus_rolls": 0.0,
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "bageskequineyaddon:slow_feeder_bagek_1"
+          "name": "bageksequineyaddon:slow_feeder_bagek_1"
         }
       ],
       "conditions": [
