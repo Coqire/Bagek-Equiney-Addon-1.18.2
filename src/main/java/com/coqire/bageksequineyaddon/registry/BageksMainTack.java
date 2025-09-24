@@ -1,9 +1,14 @@
 package com.coqire.bageksequineyaddon.registry;
 
+import com.alaharranhonor.swem.forge.blocks.SlowFeederBlock;
 import com.alaharranhonor.swem.forge.items.tack.*;
 import com.coqire.bageksequineyaddon.Bageksequineyaddon;
 import com.coqire.bageksequineyaddon.item.BageksAddonCreativeModeTab;
 import net.minecraft.world.item.Item;
+import net.minecraft.world.level.block.Block;
+import net.minecraft.world.level.block.SoundType;
+import net.minecraft.world.level.block.state.BlockBehaviour;
+import net.minecraft.world.level.material.Material;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
@@ -330,9 +335,6 @@ public class BageksMainTack {
     public static final RegistryObject<EnglishLegWraps> ENGLISH_LEG_WRAPS_HORSESHOE_BAGEK_3 = ITEMS.register("english_leg_wraps_horseshoe_bagek_3",
             () -> new EnglishLegWraps("english_leg_wraps_horseshoe_bagek_3", new Item.Properties()
                     .tab(BageksAddonCreativeModeTab.BAGEKSADDON_TAB).stacksTo(64)));
-
-
-
 
 
 
