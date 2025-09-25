@@ -373,6 +373,114 @@ public class BagekBlocks {
             () -> new TackBoxBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
                     .sound(SoundType.WOOD).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), 1),
             BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<TackBoxBlock> TACK_BOX_BAGEK_2 = registerBlock("tack_box_bagek_2",
+            () -> new TackBoxBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.WOOD).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), 1),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<TackBoxBlock> TACK_BOX_BAGEK_3 = registerBlock("tack_box_bagek_3",
+            () -> new TackBoxBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.WOOD).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), 1),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<TackBoxBlock> TACK_BOX_BAGEK_4 = registerBlock("tack_box_bagek_4",
+            () -> new TackBoxBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.WOOD).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), 1),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<TackBoxBlock> TACK_BOX_BAGEK_5 = registerBlock("tack_box_bagek_5",
+            () -> new TackBoxBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.WOOD).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), 1),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<TackBoxBlock> TACK_BOX_BAGEK_6 = registerBlock("tack_box_bagek_6",
+            () -> new TackBoxBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.WOOD).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), 1),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<TackBoxBlock> TACK_BOX_BAGEK_7 = registerBlock("tack_box_bagek_7",
+            () -> new TackBoxBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.WOOD).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), 1),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<TackBoxBlock> TACK_BOX_BAGEK_8 = registerBlock("tack_box_bagek_8",
+            () -> new TackBoxBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.WOOD).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), 1),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<TackBoxBlock> TACK_BOX_BAGEK_9 = registerBlock("tack_box_bagek_9",
+            () -> new TackBoxBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.WOOD).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), 1),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<TackBoxBlock> TACK_BOX_BAGEK_10 = registerBlock("tack_box_bagek_10",
+            () -> new TackBoxBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.WOOD).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), 1),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<TackBoxBlock> TACK_BOX_BAGEK_11 = registerBlock("tack_box_bagek_11",
+            () -> new TackBoxBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.WOOD).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), 1),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<TackBoxBlock> TACK_BOX_BAGEK_12 = registerBlock("tack_box_bagek_12",
+            () -> new TackBoxBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.WOOD).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), 1),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<TackBoxBlock> TACK_BOX_BAGEK_13 = registerBlock("tack_box_bagek_13",
+            () -> new TackBoxBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.WOOD).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), 1),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<TackBoxBlock> TACK_BOX_BAGEK_14 = registerBlock("tack_box_bagek_14",
+            () -> new TackBoxBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.WOOD).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), 1),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<TackBoxBlock> TACK_BOX_BAGEK_15 = registerBlock("tack_box_bagek_15",
+            () -> new TackBoxBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.WOOD).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), 1),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<TackBoxBlock> TACK_BOX_BAGEK_16 = registerBlock("tack_box_bagek_16",
+            () -> new TackBoxBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.WOOD).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), 1),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<TackBoxBlock> TACK_BOX_BAGEK_17 = registerBlock("tack_box_bagek_17",
+            () -> new TackBoxBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.WOOD).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), 1),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<TackBoxBlock> TACK_BOX_BAGEK_18 = registerBlock("tack_box_bagek_18",
+            () -> new TackBoxBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.WOOD).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), 1),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<TackBoxBlock> TACK_BOX_BAGEK_19 = registerBlock("tack_box_bagek_19",
+            () -> new TackBoxBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.WOOD).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), 1),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<TackBoxBlock> TACK_BOX_BAGEK_20 = registerBlock("tack_box_bagek_20",
+            () -> new TackBoxBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.WOOD).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), 1),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<TackBoxBlock> TACK_BOX_BAGEK_21 = registerBlock("tack_box_bagek_21",
+            () -> new TackBoxBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.WOOD).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), 1),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<TackBoxBlock> TACK_BOX_BAGEK_22 = registerBlock("tack_box_bagek_22",
+            () -> new TackBoxBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.WOOD).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), 1),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<TackBoxBlock> TACK_BOX_BAGEK_23 = registerBlock("tack_box_bagek_23",
+            () -> new TackBoxBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.WOOD).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), 1),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<TackBoxBlock> TACK_BOX_BAGEK_24 = registerBlock("tack_box_bagek_24",
+            () -> new TackBoxBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.WOOD).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), 1),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<TackBoxBlock> TACK_BOX_BAGEK_25 = registerBlock("tack_box_bagek_25",
+            () -> new TackBoxBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.WOOD).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), 1),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<TackBoxBlock> TACK_BOX_BAGEK_26 = registerBlock("tack_box_bagek_26",
+            () -> new TackBoxBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.WOOD).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), 1),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<TackBoxBlock> TACK_BOX_BAGEK_27 = registerBlock("tack_box_bagek_27",
+            () -> new TackBoxBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.WOOD).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), 1),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<TackBoxBlock> TACK_BOX_BAGEK_28 = registerBlock("tack_box_bagek_28",
+            () -> new TackBoxBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.WOOD).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), 1),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
 
 
     // HALF BARRELS
