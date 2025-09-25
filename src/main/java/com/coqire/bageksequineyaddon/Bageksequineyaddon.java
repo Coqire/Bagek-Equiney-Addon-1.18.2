@@ -1,6 +1,5 @@
 package com.coqire.bageksequineyaddon;
 
-import com.coqire.bageksequineyaddon.block.BlockTest;
 import com.coqire.bageksequineyaddon.item.ModItems;
 import com.coqire.bageksequineyaddon.registry.BageksBlock;
 import com.coqire.bageksequineyaddon.registry.BageksMainTack;
@@ -29,7 +28,6 @@ public class Bageksequineyaddon {
         BageksTack.init(eventBus);
         BageksMainTack.init(eventBus);
         BageksBlock.init(eventBus);
-        BlockTest.register(eventBus);
 
         eventBus.addListener(this::setup);
 
