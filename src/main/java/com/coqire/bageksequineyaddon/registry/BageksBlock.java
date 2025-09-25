@@ -33,7 +33,7 @@ public class BageksBlock {
 
 
     private static <T extends Block> RegistryObject<T> register(String name, Supplier<? extends T> sup) {
-        return register(name, sup);
+        return register(name, sup, BageksBlock::itemDefault);
     }
 
     private static <T extends Block> RegistryObject<T> register(String name, Supplier<? extends T> sup, Function<RegistryObject<T>, Supplier<? extends Item>> itemCreator) {
@@ -44,6 +44,10 @@ public class BageksBlock {
 
     private static <T extends Block> RegistryObject<T> registerNoItem(String name, Supplier<? extends T> sup) {
         return BLOCKS.register(name, sup);
+    }
+
+    private static Supplier<BlockItem> itemDefault(RegistryObject<? extends Block> block) {
+        return item(block, BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
     }
 
     private static Supplier<BlockItem> item(RegistryObject<? extends Block> block, CreativeModeTab BAGEKSBLOCK_TAB) {
