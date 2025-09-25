@@ -27,6 +27,115 @@ public class BagekBlocks {
             () -> new SlowFeederBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
                     .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), null),
             BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<SlowFeederBlock> SLOW_FEEDER_BAGEK_2 = registerBlock("slow_feeder_bagek_2",
+            () -> new SlowFeederBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), null),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<SlowFeederBlock> SLOW_FEEDER_BAGEK_3 = registerBlock("slow_feeder_bagek_3",
+            () -> new SlowFeederBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), null),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<SlowFeederBlock> SLOW_FEEDER_BAGEK_4 = registerBlock("slow_feeder_bagek_4",
+            () -> new SlowFeederBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), null),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<SlowFeederBlock> SLOW_FEEDER_BAGEK_5 = registerBlock("slow_feeder_bagek_5",
+            () -> new SlowFeederBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), null),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<SlowFeederBlock> SLOW_FEEDER_BAGEK_6 = registerBlock("slow_feeder_bagek_6",
+            () -> new SlowFeederBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), null),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<SlowFeederBlock> SLOW_FEEDER_BAGEK_7 = registerBlock("slow_feeder_bagek_7",
+            () -> new SlowFeederBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), null),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<SlowFeederBlock> SLOW_FEEDER_BAGEK_8 = registerBlock("slow_feeder_bagek_8",
+            () -> new SlowFeederBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), null),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<SlowFeederBlock> SLOW_FEEDER_BAGEK_9 = registerBlock("slow_feeder_bagek_9",
+            () -> new SlowFeederBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), null),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<SlowFeederBlock> SLOW_FEEDER_BAGEK_10 = registerBlock("slow_feeder_bagek_10",
+            () -> new SlowFeederBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), null),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<SlowFeederBlock> SLOW_FEEDER_BAGEK_11 = registerBlock("slow_feeder_bagek_11",
+            () -> new SlowFeederBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), null),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<SlowFeederBlock> SLOW_FEEDER_BAGEK_12 = registerBlock("slow_feeder_bagek_12",
+            () -> new SlowFeederBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), null),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<SlowFeederBlock> SLOW_FEEDER_BAGEK_13 = registerBlock("slow_feeder_bagek_13",
+            () -> new SlowFeederBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), null),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<SlowFeederBlock> SLOW_FEEDER_BAGEK_14 = registerBlock("slow_feeder_bagek_14",
+            () -> new SlowFeederBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), null),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<SlowFeederBlock> SLOW_FEEDER_BAGEK_15 = registerBlock("slow_feeder_bagek_15",
+            () -> new SlowFeederBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), null),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<SlowFeederBlock> SLOW_FEEDER_BAGEK_16 = registerBlock("slow_feeder_bagek_16",
+            () -> new SlowFeederBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), null),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<SlowFeederBlock> SLOW_FEEDER_BAGEK_17 = registerBlock("slow_feeder_bagek_17",
+            () -> new SlowFeederBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), null),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<SlowFeederBlock> SLOW_FEEDER_BAGEK_18 = registerBlock("slow_feeder_bagek_18",
+            () -> new SlowFeederBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), null),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<SlowFeederBlock> SLOW_FEEDER_BAGEK_19 = registerBlock("slow_feeder_bagek_19",
+            () -> new SlowFeederBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), null),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<SlowFeederBlock> SLOW_FEEDER_BAGEK_20 = registerBlock("slow_feeder_bagek_20",
+            () -> new SlowFeederBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), null),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<SlowFeederBlock> SLOW_FEEDER_BAGEK_21 = registerBlock("slow_feeder_bagek_21",
+            () -> new SlowFeederBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), null),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<SlowFeederBlock> SLOW_FEEDER_BAGEK_22 = registerBlock("slow_feeder_bagek_22",
+            () -> new SlowFeederBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), null),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<SlowFeederBlock> SLOW_FEEDER_BAGEK_23 = registerBlock("slow_feeder_bagek_23",
+            () -> new SlowFeederBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), null),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<SlowFeederBlock> SLOW_FEEDER_BAGEK_24 = registerBlock("slow_feeder_bagek_24",
+            () -> new SlowFeederBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), null),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<SlowFeederBlock> SLOW_FEEDER_BAGEK_25 = registerBlock("slow_feeder_bagek_25",
+            () -> new SlowFeederBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), null),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<SlowFeederBlock> SLOW_FEEDER_BAGEK_26 = registerBlock("slow_feeder_bagek_26",
+            () -> new SlowFeederBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), null),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<SlowFeederBlock> SLOW_FEEDER_BAGEK_27 = registerBlock("slow_feeder_bagek_27",
+            () -> new SlowFeederBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), null),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<SlowFeederBlock> SLOW_FEEDER_BAGEK_28 = registerBlock("slow_feeder_bagek_28",
+            () -> new SlowFeederBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), null),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+
 
 
     // GRAIN FEEDERS
@@ -46,7 +155,7 @@ public class BagekBlocks {
     // TACK BOXES
     public static final RegistryObject<TackBoxBlock> TACK_BOX_BAGEK_1 = registerBlock("tack_box_bagek_1",
             () -> new TackBoxBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
-                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), 1),
+                    .sound(SoundType.WOOD).strength(2.0F, 3.0F).requiresCorrectToolForDrops(), 1),
             BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
 
 
