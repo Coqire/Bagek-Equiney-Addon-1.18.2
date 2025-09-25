@@ -1,7 +1,7 @@
 package com.coqire.bageksequineyaddon;
 
 import com.coqire.bageksequineyaddon.item.ModItems;
-import com.coqire.bageksequineyaddon.registry.BageksBlock;
+import com.coqire.bageksequineyaddon.registry.BagekBlocks;
 import com.coqire.bageksequineyaddon.registry.BageksMainTack;
 import com.coqire.bageksequineyaddon.registry.BageksTack;
 import com.mojang.logging.LogUtils;
@@ -27,7 +27,7 @@ public class Bageksequineyaddon {
         ModItems.register(eventBus);
         BageksTack.init(eventBus);
         BageksMainTack.init(eventBus);
-        BageksBlock.init(eventBus);
+        BagekBlocks.register(eventBus);
 
         eventBus.addListener(this::setup);
 
