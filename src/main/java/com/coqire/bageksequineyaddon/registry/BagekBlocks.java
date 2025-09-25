@@ -488,6 +488,115 @@ public class BagekBlocks {
             () -> new HalfBarrelBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
                     .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
             BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<HalfBarrelBlock> HALF_BARREL_BAGEK_2 = registerBlock("half_barrel_bagek_2",
+            () -> new HalfBarrelBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<HalfBarrelBlock> HALF_BARREL_BAGEK_3 = registerBlock("half_barrel_bagek_3",
+            () -> new HalfBarrelBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<HalfBarrelBlock> HALF_BARREL_BAGEK_4 = registerBlock("half_barrel_bagek_4",
+            () -> new HalfBarrelBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<HalfBarrelBlock> HALF_BARREL_BAGEK_5 = registerBlock("half_barrel_bagek_5",
+            () -> new HalfBarrelBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<HalfBarrelBlock> HALF_BARREL_BAGEK_6 = registerBlock("half_barrel_bagek_6",
+            () -> new HalfBarrelBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<HalfBarrelBlock> HALF_BARREL_BAGEK_7 = registerBlock("half_barrel_bagek_7",
+            () -> new HalfBarrelBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<HalfBarrelBlock> HALF_BARREL_BAGEK_8 = registerBlock("half_barrel_bagek_8",
+            () -> new HalfBarrelBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<HalfBarrelBlock> HALF_BARREL_BAGEK_9 = registerBlock("half_barrel_bagek_9",
+            () -> new HalfBarrelBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<HalfBarrelBlock> HALF_BARREL_BAGEK_10 = registerBlock("half_barrel_bagek_10",
+            () -> new HalfBarrelBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<HalfBarrelBlock> HALF_BARREL_BAGEK_11 = registerBlock("half_barrel_bagek_11",
+            () -> new HalfBarrelBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<HalfBarrelBlock> HALF_BARREL_BAGEK_12 = registerBlock("half_barrel_bagek_12",
+            () -> new HalfBarrelBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<HalfBarrelBlock> HALF_BARREL_BAGEK_13 = registerBlock("half_barrel_bagek_13",
+            () -> new HalfBarrelBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<HalfBarrelBlock> HALF_BARREL_BAGEK_14 = registerBlock("half_barrel_bagek_14",
+            () -> new HalfBarrelBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<HalfBarrelBlock> HALF_BARREL_BAGEK_15 = registerBlock("half_barrel_bagek_15",
+            () -> new HalfBarrelBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<HalfBarrelBlock> HALF_BARREL_BAGEK_16 = registerBlock("half_barrel_bagek_16",
+            () -> new HalfBarrelBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<HalfBarrelBlock> HALF_BARREL_BAGEK_17 = registerBlock("half_barrel_bagek_17",
+            () -> new HalfBarrelBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<HalfBarrelBlock> HALF_BARREL_BAGEK_18 = registerBlock("half_barrel_bagek_18",
+            () -> new HalfBarrelBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<HalfBarrelBlock> HALF_BARREL_BAGEK_19 = registerBlock("half_barrel_bagek_19",
+            () -> new HalfBarrelBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<HalfBarrelBlock> HALF_BARREL_BAGEK_20 = registerBlock("half_barrel_bagek_20",
+            () -> new HalfBarrelBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<HalfBarrelBlock> HALF_BARREL_BAGEK_21 = registerBlock("half_barrel_bagek_21",
+            () -> new HalfBarrelBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<HalfBarrelBlock> HALF_BARREL_BAGEK_22 = registerBlock("half_barrel_bagek_22",
+            () -> new HalfBarrelBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<HalfBarrelBlock> HALF_BARREL_BAGEK_23 = registerBlock("half_barrel_bagek_23",
+            () -> new HalfBarrelBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<HalfBarrelBlock> HALF_BARREL_BAGEK_24 = registerBlock("half_barrel_bagek_24",
+            () -> new HalfBarrelBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<HalfBarrelBlock> HALF_BARREL_BAGEK_25 = registerBlock("half_barrel_bagek_25",
+            () -> new HalfBarrelBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<HalfBarrelBlock> HALF_BARREL_BAGEK_26 = registerBlock("half_barrel_bagek_26",
+            () -> new HalfBarrelBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<HalfBarrelBlock> HALF_BARREL_BAGEK_27 = registerBlock("half_barrel_bagek_27",
+            () -> new HalfBarrelBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<HalfBarrelBlock> HALF_BARREL_BAGEK_28 = registerBlock("half_barrel_bagek_28",
+            () -> new HalfBarrelBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+
 
 
 
