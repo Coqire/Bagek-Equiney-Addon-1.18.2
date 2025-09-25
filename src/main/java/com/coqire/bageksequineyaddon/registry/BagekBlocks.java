@@ -258,6 +258,114 @@ public class BagekBlocks {
             () -> new GrainBinBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
                     .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
             BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<GrainBinBlock> BIN_GRAIN_BAGEK_2 = registerBlock("bin_grain_bagek_2",
+            () -> new GrainBinBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<GrainBinBlock> BIN_GRAIN_BAGEK_3 = registerBlock("bin_grain_bagek_3",
+            () -> new GrainBinBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<GrainBinBlock> BIN_GRAIN_BAGEK_4 = registerBlock("bin_grain_bagek_4",
+            () -> new GrainBinBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<GrainBinBlock> BIN_GRAIN_BAGEK_5 = registerBlock("bin_grain_bagek_5",
+            () -> new GrainBinBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<GrainBinBlock> BIN_GRAIN_BAGEK_6 = registerBlock("bin_grain_bagek_6",
+            () -> new GrainBinBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<GrainBinBlock> BIN_GRAIN_BAGEK_7 = registerBlock("bin_grain_bagek_7",
+            () -> new GrainBinBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<GrainBinBlock> BIN_GRAIN_BAGEK_8 = registerBlock("bin_grain_bagek_8",
+            () -> new GrainBinBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<GrainBinBlock> BIN_GRAIN_BAGEK_9 = registerBlock("bin_grain_bagek_9",
+            () -> new GrainBinBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<GrainBinBlock> BIN_GRAIN_BAGEK_10 = registerBlock("bin_grain_bagek_10",
+            () -> new GrainBinBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<GrainBinBlock> BIN_GRAIN_BAGEK_11 = registerBlock("bin_grain_bagek_11",
+            () -> new GrainBinBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<GrainBinBlock> BIN_GRAIN_BAGEK_12 = registerBlock("bin_grain_bagek_12",
+            () -> new GrainBinBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<GrainBinBlock> BIN_GRAIN_BAGEK_13 = registerBlock("bin_grain_bagek_13",
+            () -> new GrainBinBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<GrainBinBlock> BIN_GRAIN_BAGEK_14 = registerBlock("bin_grain_bagek_14",
+            () -> new GrainBinBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<GrainBinBlock> BIN_GRAIN_BAGEK_15 = registerBlock("bin_grain_bagek_15",
+            () -> new GrainBinBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<GrainBinBlock> BIN_GRAIN_BAGEK_16 = registerBlock("bin_grain_bagek_16",
+            () -> new GrainBinBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<GrainBinBlock> BIN_GRAIN_BAGEK_17 = registerBlock("bin_grain_bagek_17",
+            () -> new GrainBinBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<GrainBinBlock> BIN_GRAIN_BAGEK_18 = registerBlock("bin_grain_bagek_18",
+            () -> new GrainBinBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<GrainBinBlock> BIN_GRAIN_BAGEK_19 = registerBlock("bin_grain_bagek_19",
+            () -> new GrainBinBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<GrainBinBlock> BIN_GRAIN_BAGEK_20 = registerBlock("bin_grain_bagek_20",
+            () -> new GrainBinBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<GrainBinBlock> BIN_GRAIN_BAGEK_21 = registerBlock("bin_grain_bagek_21",
+            () -> new GrainBinBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<GrainBinBlock> BIN_GRAIN_BAGEK_22 = registerBlock("bin_grain_bagek_22",
+            () -> new GrainBinBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<GrainBinBlock> BIN_GRAIN_BAGEK_23 = registerBlock("bin_grain_bagek_23",
+            () -> new GrainBinBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<GrainBinBlock> BIN_GRAIN_BAGEK_24 = registerBlock("bin_grain_bagek_24",
+            () -> new GrainBinBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<GrainBinBlock> BIN_GRAIN_BAGEK_25 = registerBlock("bin_grain_bagek_25",
+            () -> new GrainBinBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<GrainBinBlock> BIN_GRAIN_BAGEK_26 = registerBlock("bin_grain_bagek_26",
+            () -> new GrainBinBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<GrainBinBlock> BIN_GRAIN_BAGEK_27 = registerBlock("bin_grain_bagek_27",
+            () -> new GrainBinBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
+    public static final RegistryObject<GrainBinBlock> BIN_GRAIN_BAGEK_28 = registerBlock("bin_grain_bagek_28",
+            () -> new GrainBinBlock(BlockBehaviour.Properties.of(Material.METAL).noOcclusion()
+                    .sound(SoundType.METAL).strength(2.0F, 3.0F).requiresCorrectToolForDrops()),
+            BageksAddonCreativeModeTab.BAGEKSBLOCK_TAB);
 
 
     // TACK BOXES
