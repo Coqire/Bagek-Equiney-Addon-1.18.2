@@ -46,9 +46,9 @@ public class BageksBlock {
         return BLOCKS.register(name, sup);
     }
 
-    private static Supplier<BlockItem> item(RegistryObject<? extends Block> block, CreativeModeTab itemGroup) {
+    private static Supplier<BlockItem> item(RegistryObject<? extends Block> block, CreativeModeTab BAGEKSBLOCK_TAB) {
         return () -> {
-            return new BlockItem((Block) block.get(), (new Item.Properties()));
+            return new BlockItem((Block) block.get(), (new Item.Properties()).tab(BAGEKSBLOCK_TAB));
         };
     }
 
